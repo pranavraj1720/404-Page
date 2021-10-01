@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg">
+    <a href="https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg">
       Youtube
     </a>
     <span> | </span>
-    <a href="https://https://realisticcoder.github.io/404-Page/">
+    <a href="https://realisticcoder.github.io/404-Page/">
         Live Preview
     </a>
   </h3>
@@ -42,10 +42,10 @@ You can use this template on your websites.
 - [Javascript](https://www.w3schools.com/js/DEFAULT.asp)
 
 ## Youtube
-Watch the Video Tutorial Here (With Voice Explanation) - [Realstic Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
+Watch the Video Tutorial Here (With Voice Explanation) - [Realstic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg)
 
 ## Contact
 
-- Youtube: [Realstic Coder](https://https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg)
-- GitHub: [Realistic Coder](https://https://github.com/RealisticCoder/)
+- Youtube: [Realstic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg)
+- GitHub: [Realistic Coder](https://github.com/RealisticCoder/)
 
