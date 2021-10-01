@@ -42,10 +42,10 @@ You can use this template on your websites.
 - [Javascript](https://www.w3schools.com/js/DEFAULT.asp)
 
 ## Youtube
-Youtube [Realstic-Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
+- [Realstic Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
 
 ## Contact
 
-- Youtube [Realstic-Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
-- GitHub [@your-username](https://{https://github.com/RealisticCoder/})
+- Youtube [Realstic Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
+- GitHub [RealisticCoder](https://{https://github.com/RealisticCoder/})
 
