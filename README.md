@@ -46,6 +46,6 @@ Watch the Video Tutorial Here (With Voice Explanation) - [Realstic Coder](https:
 
 ## Contact
 
-- Youtube: [Realstic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg)
-- GitHub: [Realistic Coder](https://github.com/RealisticCoder/)
+- Youtube - [Realstic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg)
+- GitHub - [Realistic Coder](https://github.com/RealisticCoder/)
 
