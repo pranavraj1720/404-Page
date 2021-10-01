@@ -46,6 +46,6 @@ You can use this template on your websites.
 
 ## Contact
 
-- Youtube [Realstic Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
-- GitHub [RealisticCoder](https://{https://github.com/RealisticCoder/})
+- Youtube: [Realstic Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
+- GitHub: [Realistic Coder](https://{https://github.com/RealisticCoder/})
 
