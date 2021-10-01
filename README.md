@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg}">
+    <a href="https://https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg">
       Youtube
     </a>
     <span> | </span>
-    <a href="https://{https://realisticcoder.github.io/404-Page/}">
+    <a href="https://https://realisticcoder.github.io/404-Page/">
         Live Preview
     </a>
   </h3>
@@ -46,6 +46,6 @@ Watch the Video Tutorial Here (With Voice Explanation) - [Realstic Coder](https:
 
 ## Contact
 
-- Youtube: [Realstic Coder](https://{https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg})
-- GitHub: [Realistic Coder](https://{https://github.com/RealisticCoder/})
+- Youtube: [Realstic Coder](https://https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg)
+- GitHub: [Realistic Coder](https://https://github.com/RealisticCoder/)
 
