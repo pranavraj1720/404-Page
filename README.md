@@ -9,7 +9,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://realisticcoder.github.io/404-Page/">
         Live Preview
     </a>
   </h3>
@@ -31,7 +31,7 @@
 
 Hi everyone, I have created this 404 template page. You can see the demo by  <a href="https://{your-url-to-the-solution}">
         Clcking Here
-    </a>
+    </a> <br>
 You can use this template on your websites. 
 
 
