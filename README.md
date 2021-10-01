@@ -47,7 +47,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+<!-- This>
 
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
@@ -55,7 +55,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+<!-- List the featu section should list any major frameworks that you built your project using. Here are a few examples.--res of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
