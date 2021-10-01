@@ -37,7 +37,7 @@ You can use this template on your websites.
 
 ### Built With
 
-- [HTMl](https://www.w3schools.com/html/)
+- [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [Javascript](https://www.w3schools.com/js/DEFAULT.asp)
 
